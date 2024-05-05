@@ -6,7 +6,7 @@ This tutorial demonstrates how to bring interactivity to server components in a 
 ## Challenge
 
 - Fetching and mutating data from client components can be tricky and unsafe.
-- Components need reactivity; hence, they always need to be client components. Is this true? No.
+- Components need reactivity; hence,they always need to be client components. Is this true? No.
 
 ## Scope
 - Develop a counter app where the button invokes a server action to adjust the counter.
