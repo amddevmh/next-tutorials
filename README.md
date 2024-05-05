@@ -13,8 +13,6 @@ Below is a list of tutorials available in this repository. Each has links to dem
 
 - **Auth in Next.js Made Easy with Auth.js**   *coming soon* 🚧
 
-## Demo
-You can view a live demo of the tutorials here: [Live Demo](https://potato.potato)
 
 ## Contributing
 We welcome contributions to this project! Whether it's improving the tutorials, fixing bugs, or adding new ones, your help is appreciated. Please feel free to fork the repository, make changes, and submit a pull request. 🛠️
