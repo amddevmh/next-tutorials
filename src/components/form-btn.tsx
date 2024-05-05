@@ -1,4 +1,4 @@
-//Yep, this is a server component, that supports interactivity :)
+//Yep,this is a server component, that supports interactivity :)
 import { incrementCounterAction } from "@/app/actions";
 
 export function FormButton() {
