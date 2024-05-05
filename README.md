@@ -21,7 +21,8 @@ This tutorial demonstrates how to bring interactivity to server components in a 
 
 ## Why This Approach?
 This scenario is very common in applications using Next.js, making it an essential technique to master.
-
+## Limitations of this approach 
+If you need the UI to react super quickly like imagine clicking on the counter continouesly, you will see some lag. And in that case, it is definitely better to use a client component and handle the mutation/fetching in a different way. Check the "main" ReadMe for a tutorial explaining how to do this.
 ## Learnings
 *Detailed learnings and insights will be shared here.*
 
